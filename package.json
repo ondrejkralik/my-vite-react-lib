@@ -1,5 +1,5 @@
 {
-  "name": "my-vite-react-lib",
+  "name": "@ondrejkralik/my-vite-react-lib",
   "private": true,
   "version": "0.0.2",
   "type": "module",
